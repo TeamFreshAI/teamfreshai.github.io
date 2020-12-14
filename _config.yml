@@ -424,7 +424,7 @@ contact_address_2nd_line: '12435 Berlin'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We''re two Machine Learning Scientists who want to eliminate food waste and increase supermarkets'' profit margins.'
+footer_description: 'We''re two Machine Learning Scientists who want to eliminate food waste while increasing supermarkets'' profit margins.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
@@ -449,20 +449,20 @@ footer_features_link_one_link: '#'
 
 
 footer_facebook_link: '#'
-footer_twitter_link: '#'
+footer_twitter_link: 'https://twitter.com/teamfreshai'
 footer_dribbble_link: '#'
 footer_behance_link: '#'
 
 mailchimp:
-  user-id:
-  list-id:
+  user-id: 6cec6e0ccbefa2f7edd4410ecc8f5d79-us7
+  list-id: 5051668562
 
 
 ####################################
 ######        Copyright       ######
 ####################################
 copyright_text: Copyright © 2020 All rights reserved to
-company_url: '#'
+company_url: 'https://teamfresh.tech'
 
 
 # SEO Related
@@ -473,7 +473,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : teamfreshai
 facebook:
   username               :
   app_id                 :
@@ -493,8 +493,8 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 #google map api key
 
-map: 'AIzaSyA7nx22ZmINYk9TGiXDEXGVxghC43Ox6qA'
+map: 'AIzaSyCuNW3QkJn7YpNsu9XUmq1kgI3-FUDMtt0'
