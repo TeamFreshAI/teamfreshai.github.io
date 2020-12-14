@@ -1,0 +1,97 @@
+{% if include.header_id == 'header7' %}
+
+{% assign header_id = include.header_id %}
+
+{% elsif site.hero == 'product_background_image' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'product_fixed_image' %}
+
+{% assign header_id = "header7" %}
+
+{% elsif site.hero == 'product' %}
+
+{% assign header_id = "header" %}
+
+{% elsif site.hero == 'product_slider' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'product_video' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'saas_video' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'sass_background_image' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'sass_fixed_image' %}
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == 'sass_slider' %}
+
+
+{% assign header_id = "header2" %}
+
+{% elsif site.hero == "sass" %}
+
+{% assign header_id = "header" %}
+
+{% else %}
+
+{% assign header_id = "header" %}
+
+{% endif %}
+
+    <!-- start Header Area -->
+    <header id="{{ header_id }}" >
+        <div class="container-fluid">
+            <div class="row align-items-center justify-content-between">
+                <div id="logo">
+                    <a href="{{ '/' | relative_url }}">
+                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                    </a>
+                    <a href="index.html">
+                        <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                    </a>
+                </div>
+                <div class="nav-wrap d-flex flex-row align-items-center">
+                    <nav id="nav-menu-container">
+                        <ul class="nav-menu">
+                            <li class="menu-has-children">
+                                <a href="{{ '/#' | relative_url }}">Home</a>
+                            </li>
+                            <li>
+                                <a href="{{ '#features' | relative_url }}">Features</a>
+                            </li>
+                            <!-- <li>
+                                <a href="{{ '#pricing' | relative_url }}">Pricing</a>
+                            </li> -->
+                            <!-- <li class="menu-has-children">
+                                {% if page.name == 'blog' %}
+                                <a href="{{ 'blog' | relative_url }}">Blog</a>
+                                {% else %}
+                                <a href="{{ '#blog' | relative_url }}">Blog</a>
+                                {% endif %}
+                            </li> -->
+                            <li>
+                                <a href="{{ '#contact' | relative_url }}">Contact</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <div>
+                    <a class="genric-btn" href="{{ '#contact' | relative_url }}">Free demo</a>
+                </div>
+                <!-- #nav-menu-container -->
+            </div>
+        </div>
+    </header>
+    <!-- End Header Area -->
+

@@ -1,0 +1,109 @@
+
+    <!-- start footer Area -->
+    <footer class="footer-area aquablue-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="single-footer-widget">
+                        <h4>{{ site.footer_title }}</h4>
+                        <p>
+                            {{ site.footer_description }}
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <div class="single-footer-widget">
+                        <h4>{{ site.footer_resources_link_heading }}</h4>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="{{ site.footer_resources_link_one_link }}">{{ site.footer_resources_link_one_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_resources_link_two_link }}">{{ site.footer_resources_link_one_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_resources_link_three_link }}">{{ site.footer_resources_link_one_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_resources_link_four_link }}">{{ site.footer_resources_link_one_text }}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <div class="single-footer-widget">
+                        <h4>{{ site.footer_features_link_heading }}</h4>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="{{ site.footer_features_link_one_link }}">{{ site.footer_features_link_one_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_features_link_two_link }}">{{ site.footer_features_link_two_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_features_link_three_link }}">{{ site.footer_features_link_three_text }}</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_features_link_four_link }}">{{ site.footer_features_link_four_text }}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <div class="single-footer-widget">
+                        <h4>Follow Us</h4>
+                        <ul class="social-icons">
+                            <li>
+                                <a href="{{ site.footer_facebook_link }}">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_twitter_link }}">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_dribbble_link }}">
+                                    <i class="fab fa-dribbble"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{ site.footer_behance_link }}">
+                                    <i class="fab fa-behance"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="single-footer-widget">
+                        <h4>Newsletter</h4>
+                        <p>You can trust us. we only send promo offers, not a single spam.</p>
+                        <div class="d-flex flex-row newsletter-form" id="mc_embed_signup">
+
+                            <form class="navbar-form" 
+                            action="http://twitter.us2.list-manage.com/subscribe/post?u={{ site.mailchimp.user-id }}&amp;id={{ site.mailchimp.list-id }}"
+                                method="post" novalidate >
+                                <div class="d-flex form-wrap">
+                                    <input class="form-control" name="EMAIL" autocomplete="email" placeholder="Your email address"
+                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
+                                        required="" type="email">
+                                    <button class="submit-btn" type="submit">
+                                        <span class="lnr lnr-arrow-right"></span>
+                                    </button>
+                                </div>
+                                <div class="info mt-20"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom row justify-content-center mt-70">
+                <p class="footer-text m-0 col-lg-6 col-md-12">{{ site.copyright_text }}
+                    <a href="{{ site.company_url }}">{{ site.name }}</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer Area -->

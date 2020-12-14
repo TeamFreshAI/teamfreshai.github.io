@@ -1,0 +1,54 @@
+    <!-- Start unique-feature Area -->
+    <section class="unique-feature-area section-gap">
+        <div class="container-fluid">
+            <div class="row justify-content-center section-title-wrap">
+                <div class="col-lg-12">
+                    <div class="title-img">
+                        <img src="{{ 'img/title-icon.png' | relative_url }}" alt="">
+                    </div>
+                    <h1>{{ site.unique_feature_title }}</h1>
+                    <p>
+                        {{ site.unique_feature_description }}
+                    </p>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 pr-5">
+                    <div class="active-execution-carusel">
+                        {% for carusel in site.unique_feature_main_image_slider %}
+                        <img class="img-fluid" src="{{ carusel['image'] | relative_url }}" alt="">
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="col-lg-6 pl-4">
+                    <div class="feature-list d-flex flex-row">
+                        <div class="icon">
+                            <img class="img-fluid" src="{{ site.unique_feature_section_one_image | relative_url }}" alt="">
+                        </div>
+                        <div class="desc ml-40">
+                            <a href="{{ stie.unique_feature_section_one_link }}">
+                                <h4 class="mb-20">{{ stie.unique_feature_section_one_title }}</h4>
+                            </a>
+                            <p>
+                                {{ stie.unique_feature_section_one_description }}
+                            </p>
+                        </div>
+                    </div>
+                    <div class="feature-list d-flex flex-row">
+                        <div class="icon">
+                            <img class="img-fluid" src="{{ site.unique_feature_section_two_image | relative_url }}" alt="">
+                        </div>
+                        <div class="desc ml-40">
+                            <a href="{{ stie.unique_feature_section_two_link }}">
+                                <h4 class="mb-20">{{ stie.unique_feature_section_two_title }}</h4>
+                            </a>
+                            <p>
+                                {{ stie.unique_feature_section_two_description }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End unique-feature Area -->

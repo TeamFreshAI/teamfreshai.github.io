@@ -1,0 +1,46 @@
+{% if site.hero == 'product_background_image' %}
+
+    {% include hero/product_background_image.html %}
+
+{% elsif site.hero == 'product_fixed_image' %}
+
+    {% include hero/product_fixed_image.html %}
+
+{% elsif site.hero == 'product' %}
+
+    {% include hero/product.html %}
+
+{% elsif site.hero == 'product_slider' %}
+
+    {% include hero/product_slider.html %}
+
+{% elsif site.hero == 'product_video' %}
+
+    {% include hero/product_video.html %}
+
+{% elsif site.hero == 'saas_video' %}
+
+    {% include hero/saas_video.html %}
+
+{% elsif site.hero == 'sass_background_image' %}
+
+    {% include hero/sass_background_image.html %}
+
+{% elsif site.hero == 'sass_fixed_image' %}
+
+    {% include hero/sass_fixed_image.html %}
+
+{% elsif site.hero == 'sass_slider' %}
+
+    {% include hero/sass_slider.html %}
+    
+{% elsif site.hero == "sass" %}
+
+    {% include hero/sass.html %}
+
+{% else %}
+
+    {% include hero/sass.html %}
+
+{% endif %}
+

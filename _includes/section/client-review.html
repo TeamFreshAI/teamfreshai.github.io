@@ -1,0 +1,27 @@
+    <!-- Start client-review section -->
+    <section class="client-review-section section-gap">
+        <div class="container">
+            <div class="active-review-carusel2">
+
+                {% for testimonial in site.testimonials %}
+                <div class="single-review-2 row align-items-center justify-content-start">
+                    <div class="desc col-lg-12">
+                        <img class="img-fluid review-bg" src="{{ 'img/review/BG.png' | relative_url }}" alt="">
+                        <img class="img-fluid review-bg2" src="{{ testimonial.avatar | relative_url }}" alt="">
+                        <div class="content">
+                            <p class="mb-30 font-italic">
+                                “{{ testimonial.quotes }}“
+                            </p>
+                            <h4>{{ testimonial.author }}</h4>
+                            <p>{{ testimonial.position }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+
+
+            </div>
+        </div>
+    </section>
+    <!-- End client-review section -->

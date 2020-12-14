@@ -1,0 +1,33 @@
+
+    <!-- Start hero-section -->
+    <section class="hero-section-bg relative">
+        <div id="sass-owl" class="owl-carousel owl-theme">
+            {% for item in site.hero_product_slider %}
+            <div class="items">
+                <img class="owl-img9" src="{{ item.image | absolute_url }}" alt="">
+            </div>
+            {% endfor %}
+        </div>
+        <div class="content">
+            <div class="container">
+                <div class="row align-items-center relative">
+                    <div class="col-lg-6">
+                        <h1>
+                            {{ site.hero_product_slider_name }}
+                        </h1>
+                        <p class="pt-20 pb-20 mw-510">
+                            {{ site.hero_product_slider_text }}
+                        </p>
+                        <a href="{{ site.hero_product_slider_btn_one_link }}" class="genric-btn2">
+                            {{ site.hero_product_slider_btn_one_text }}
+                        </a>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <img class="hero-img9" src="{{ site.hero_product_slider_image | absolute_url }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End hero-section -->
