@@ -49,12 +49,12 @@ hero: 'sass'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order everytime.'
-hero_sass_text: 'TeamFresh''s AI forecasting and replenishment engine walks the fine line between minimizing waste and reducing stock-outs.'
+hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. TeamFresh''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
-hero_sass_btn_one_text:  'Free Demo'
-hero_sass_btn_two_link: '#features'
-hero_sass_btn_two_text: ' View Features'
+hero_sass_btn_one_text:  'Let''s talk'
+hero_sass_btn_two_link: 'https://calendly.com/teamfresh'
+hero_sass_btn_two_text: 'Schedule a call'
 
 # saas_video [ video type mp4 ]
 hero_saas_video_name: 'We Made our <br> Software 100% Errorless'
@@ -237,11 +237,11 @@ statistics_item_four_description: 'Making changes in your life is great and it i
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: 'Fallen in Love with <br> our features? Get a free trial for 14 days!'
-cta_btn_link_one: '#'
-cta_btn_text_one: 'Start free trial'
-cta_btn_link_two: '#'
-cta_btn_text_two: 'Signup'
+cta_title: 'Want to learn more?'
+cta_btn_link_one: 'https://calendly.com/teamfresh'
+cta_btn_text_one: 'Schedule a call'
+cta_btn_link_two: '#contact'
+cta_btn_text_two: 'Ask us anything'
 
 ####################################
 ######    Social Section      ######
@@ -411,7 +411,7 @@ blog-description: 'The first is a non technical method which requires the use of
 ##########     Contact      ###########
 #####################################
 contact_title: 'Ask us anything.'
-contact_description: 'Or book a call with us at <a href="calendly.com/teamfresh">calendly.com/teamfresh</a>'
+contact_description: 'Or book a call with us at https://calendly.com/teamfresh'
 contact_image: 'img/title-icon.png'
 contact_email: 'hello@teamfresh.tech'
 contact_phone: '+41 78 654 26 09'
@@ -424,7 +424,7 @@ contact_address_2nd_line: '12435 Berlin'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We''re two Machine Learning Scientists who want to eliminate food waste while increasing supermarkets'' profit margins.'
+footer_description: 'We''re two Machine Learning Scientists who want to reduce food waste while increasing supermarkets'' profit margins.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
