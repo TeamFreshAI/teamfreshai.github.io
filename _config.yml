@@ -411,7 +411,7 @@ blog-description: 'The first is a non technical method which requires the use of
 ##########     Contact      ###########
 #####################################
 contact_title: 'Ask us anything.'
-contact_description: 'Or book a call with us at https://calendly.com/teamfresh'
+contact_description: 'Or book a call with us at <a href="https://calendly.com/teamfresh">https://calendly.com/teamfresh</a>.'
 contact_image: 'img/title-icon.png'
 contact_email: 'hello@teamfresh.tech'
 contact_phone: '+41 78 654 26 09'
@@ -424,7 +424,7 @@ contact_address_2nd_line: '12435 Berlin'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We''re two Machine Learning Scientists who want to reduce food waste while increasing supermarkets'' profit margins.'
+footer_description: 'We''re <a href="https://www.linkedin.com/in/avikmukhija/">Avik Mukhija</a> and <a href="https://www.linkedin.com/in/carminepaolino/">Carmine Paolino</a>, two Machine Learning Scientists who want to reduce food waste while increasing supermarkets'' profit margins.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
