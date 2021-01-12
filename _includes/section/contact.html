@@ -17,7 +17,7 @@
                     <!-- <div class="map-wrap relative" id="map"></div> -->
                     <span id="add-show" class="show-btn lnr lnr-chevron-right"></span>
                     <div class="contact-info">
-                        <span id="add-hide" class="cross-btn lnr lnr-cross"></span>
+                        <!-- <span id="add-hide" class="cross-btn lnr lnr-cross"></span> -->
                         <!-- <div class="single-line d-flex flex-row">
                             <div class="icon">
                                 <span class="lnr lnr-home"></span>
@@ -27,7 +27,7 @@
                                 <p>{{ site.contact_address_2nd_line }}</p>
                             </div>
                         </div> -->
-                        <div class="single-line d-flex flex-row">
+                        <!-- <div class="single-line d-flex flex-row">
                             <div class="icon">
                                 <span class="lnr lnr-phone-handset"></span>
                             </div>
@@ -46,6 +46,16 @@
                                 <h4>{{ site.contact_phone_2 }}</h4></a>
                                 <p>{{ site.contact_phone_2_2nd_line }}</p>
                             </div>
+                        </div> -->
+                        <div class="single-line d-flex flex-row">
+                            <div class="icon">
+                                <span class="lnr lnr-calendar-full"></span>
+                            </div>
+                            <div class="desc">
+                                <a href="{{ site.contact_calendly }}">
+                                <h4>{{ site.contact_calendly_title }}</h4></a>
+                                <p>{{ site.contact_calendly_2nd_line }}</p>
+                            </div>
                         </div>
                         <div class="single-line d-flex flex-row">
                             <div class="icon">
@@ -53,7 +63,7 @@
                             </div>
                             <div class="desc">
                                 <a href="mailto:{{ site.contact_email }}"><h4>{{ site.contact_email }}</h4></a>
-                                <p class="mb-0">Send us your query anytime!</p>
+                                <p class="mb-0">{{ site.contact_email_2nd_line }}</p>
                             </div>
                         </div>
                     </div>
