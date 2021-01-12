@@ -406,12 +406,14 @@ blog-description: 'The first is a non technical method which requires the use of
 #####################################
 ##########     Contact      ###########
 #####################################
-contact_title: 'Ask us anything.'
-contact_description: 'Or book a call with us at <a href="https://calendly.com/teamfresh">https://calendly.com/teamfresh</a>.'
+contact_title: 'Let''s talk.'
+contact_description: 'Write us here or book a call with us at <a href="https://calendly.com/teamfresh">https://calendly.com/teamfresh</a>'
 contact_image: 'img/title-icon.png'
 contact_email: 'hello@teamfresh.tech'
 contact_phone: '+41 78 654 26 09'
 contact_phone_2nd_line: 'Mon to Fri 9AM to 6PM'
+contact_phone_2: '+49 172 663 42 00'
+contact_phone_2_2nd_line: 'Mon to Fri 9AM to 6PM'
 contact_address: 'Team Fresh c/o Factory Berlin  Lohmühlenstraße 65'
 contact_address_2nd_line: '12435 Berlin'
 
