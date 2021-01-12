@@ -55,10 +55,20 @@
             <div class="row align-items-center justify-content-between">
                 <div id="logo">
                     <a href="{{ '/' | relative_url }}">
-                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                        <img
+                        class="logo-1"
+                        srcset="
+                        {{ 'img/logo@2x.png' | relative_url }} 2x,
+                        {{ 'img/logo.png' | relative_url }} 1x"
+                        src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
                     </a>
                     <a href="index.html">
-                        <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                        <img
+                        class="logo-2"
+                        srcset="
+                        {{ 'img/logo@2x.png' | relative_url }} 2x,
+                        {{ 'img/logo.png' | relative_url }} 1x"
+                        src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
                     </a>
                 </div>
                 <div class="nav-wrap d-flex flex-row align-items-center">
