@@ -1,3 +1,3 @@
-# FreshFlow's Website
+# Freshflow's Website
 
 https://freshflow.ai

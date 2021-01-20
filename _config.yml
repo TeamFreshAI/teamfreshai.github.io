@@ -2,15 +2,15 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'FreshFlow'
-title               : 'FreshFlow - AI forecasting and replenishment engine for supermarkets.'
+name                : 'Freshflow'
+title               : 'Freshflow - AI forecasting and replenishment engine for supermarkets.'
 email               : hello@freshflow.ai
 address             : 'c/o Factory Berlin  Lohmühlenstraße 65  12435 Berlin'
 phone               : '+41 78 654 26 09'
 tagline             : 'AI forecasting and replenishment engine for supermarkets'
 description: >- # this means to ignore newlines until "baseurl:"
-  FreshFlow - AI forecasting and replenishment engine for supermarkets.
-  Place the perfect order every time with FreshFlow's AI-driven platform.
+  Freshflow - AI forecasting and replenishment engine for supermarkets.
+  Place the perfect order every time with Freshflow's AI-driven platform.
 baseurl             : "" # the subpath of your site, e.g. /blog
 url                 : "http://freshflow.ai/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username    : freshflowai
@@ -45,7 +45,7 @@ hero: 'sass'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order everytime.'
-hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. FreshFlow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
+hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
@@ -418,7 +418,7 @@ contact_phone_2_2nd_line: 'Mon to Fri 9AM to 6PM'
 contact_calendly: 'https://calendly.com/freshflow'
 contact_calendly_title: 'Schedule a meeting with us'
 contact_calendly_2nd_line: 'at your convenience'
-contact_address: 'FreshFlow c/o Factory Berlin  Lohmühlenstraße 65'
+contact_address: 'Freshflow c/o Factory Berlin  Lohmühlenstraße 65'
 contact_address_2nd_line: '12435 Berlin'
 
 #####################################
