@@ -2,19 +2,19 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Team Fresh'
-title               : 'Team Fresh - AI forecasting and replenishment engine for supermarkets.'
-email               : hello@teamfresh.tech
+name                : 'FreshFlow'
+title               : 'FreshFlow - AI forecasting and replenishment engine for supermarkets.'
+email               : hello@freshflow.ai
 address             : 'c/o Factory Berlin  Lohmühlenstraße 65  12435 Berlin'
 phone               : '+41 78 654 26 09'
 tagline             : 'AI forecasting and replenishment engine for supermarkets'
 description: >- # this means to ignore newlines until "baseurl:"
-  Team Fresh - AI forecasting and replenishment engine for supermarkets.
-  Place the perfect order every time with Team Fresh's AI-driven platform.
+  FreshFlow - AI forecasting and replenishment engine for supermarkets.
+  Place the perfect order every time with FreshFlow's AI-driven platform.
 baseurl             : "" # the subpath of your site, e.g. /blog
-url                 : "http://teamfresh.tech/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
-twitter_username    : teamfreshai
-github_username     : teamfreshai
+url                 : "http://freshflow.ai/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
+twitter_username    : freshflowai
+github_username     : freshflowai
 
 paginate: 12
 paginate_path: "/blog/page:num/"
@@ -45,11 +45,11 @@ hero: 'sass'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order everytime.'
-hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. Team Fresh''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
+hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. FreshFlow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
-hero_sass_btn_two_link: 'https://calendly.com/teamfresh'
+hero_sass_btn_two_link: 'https://calendly.com/freshflow'
 hero_sass_btn_two_text: 'Schedule a call'
 
 # saas_video [ video type mp4 ]
@@ -234,7 +234,7 @@ statistics_item_four_description: 'Making changes in your life is great and it i
 ######    cta Section      ######
 ####################################
 cta_title: 'Want to learn more?'
-cta_btn_link_one: 'https://calendly.com/teamfresh'
+cta_btn_link_one: 'https://calendly.com/freshflow'
 cta_btn_text_one: 'Schedule a call'
 cta_btn_link_two: '#contact'
 cta_btn_text_two: 'Ask us anything'
@@ -409,16 +409,16 @@ blog-description: 'The first is a non technical method which requires the use of
 contact_title: 'Let''s talk.'
 contact_description: ''
 contact_image: 'img/title-icon.png'
-contact_email: 'hello@teamfresh.tech'
+contact_email: 'hello@freshflow.ai'
 contact_email_2nd_line: 'We''d love to hear from you.'
 contact_phone: '+41 78 654 26 09'
 contact_phone_2nd_line: 'Mon to Fri 9AM to 6PM'
 contact_phone_2: '+49 172 663 42 00'
 contact_phone_2_2nd_line: 'Mon to Fri 9AM to 6PM'
-contact_calendly: 'https://calendly.com/teamfresh'
+contact_calendly: 'https://calendly.com/freshflow'
 contact_calendly_title: 'Schedule a meeting with us'
 contact_calendly_2nd_line: 'at your convenience'
-contact_address: 'Team Fresh c/o Factory Berlin  Lohmühlenstraße 65'
+contact_address: 'FreshFlow c/o Factory Berlin  Lohmühlenstraße 65'
 contact_address_2nd_line: '12435 Berlin'
 
 #####################################
@@ -451,7 +451,7 @@ footer_features_link_four_link: '#'
 
 
 footer_facebook_link: '#'
-footer_twitter_link: 'https://twitter.com/teamfreshai'
+footer_twitter_link: 'https://twitter.com/freshflowai'
 footer_dribbble_link: '#'
 footer_behance_link: '#'
 
@@ -464,7 +464,7 @@ mailchimp:
 ######        Copyright       ######
 ####################################
 copyright_text: Copyright © 2021 All rights reserved to
-company_url: 'https://teamfresh.tech'
+company_url: 'https://freshflow.ai'
 
 
 # SEO Related
@@ -475,7 +475,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : teamfreshai
+  username               : freshflowai
 facebook:
   username               :
   app_id                 :

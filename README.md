@@ -1,3 +1,3 @@
-# Team Fresh's Website
+# FreshFlow's Website
 
-https://teamfresh.tech
+https://freshflow.ai
