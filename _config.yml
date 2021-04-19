@@ -4,9 +4,9 @@
 ####################################
 name                : 'Freshflow'
 title               : 'Freshflow - AI forecasting and replenishment engine for supermarkets.'
-email               : hello@freshflow.ai
-address             : 'c/o Factory Berlin  Lohmühlenstraße 65  12435 Berlin'
-phone               : '+41 78 654 26 09'
+email               : "hello@freshflow.ai"
+address             : 'c/o Factory Berlin Mitte  Rheinsberger Str. 76/77, 10115 Berlin'
+phone               : "+49 176 88123785"
 tagline             : 'AI forecasting and replenishment engine for supermarkets'
 description: >- # this means to ignore newlines until "baseurl:"
   Freshflow - AI forecasting and replenishment engine for supermarkets.
@@ -23,6 +23,7 @@ paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown            : kramdown
+
 
 # google_analytics
 google_analytics: 'G-4J056FMLFF'
@@ -41,11 +42,11 @@ disqus:
 # product_slider                    sass_fixed_image
 # product_video                     sass_slider
 
-hero: 'sass'
+hero: 'product'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order everytime.'
-hero_sass_text: 'Sales forecasting and product replenishment in a world with countless curveballs is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
+hero_sass_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
@@ -85,11 +86,11 @@ hero_sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-hero_product_name: 'The most Creative <br> Theme ever for Business'
-hero_product_text: 'The first is a non technical method which requires the use of adware removal software. Download  free adware and spyware removal software and use advanced tools to help prevent getting infected.'
-hero_product_image: 'img/hero/hero-img2.png'
-hero_product_btn_one_link: '#'
-hero_product_btn_one_text:  'Browse free demo'
+hero_product_name: 'Place the perfect order everytime.'
+hero_product_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
+hero_product_image: 'img/hero/hero-img2@3x.png'
+hero_product_btn_one_link: '#contact'
+hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
 hero_product_video_name: 'The most Creative <br> Theame ever in Business'
@@ -166,7 +167,7 @@ whitelist:
 ####################################
 ######      Global end      ######
 ####################################
-
+request-demo: '#contact'
 
 
 
@@ -324,26 +325,26 @@ unique_feature_section_two_link: '#'
 #####################################
 
 bands_slider:
-  - image: 'img/brands/b1.png'
-    link: '#'
-  - image: 'img/brands/b2.png'
-    link: '#'
-  - image: 'img/brands/b3.png'
-    link: '#'
-  - image: 'img/brands/b4.png'
-    link: '#'
-  - image: 'img/brands/b5.png'
-    link: '#'
-  - image: 'img/brands/b6.png'
-    link: '#'
-  - image: 'img/brands/b7.png'
-    link: '#'
-  - image: 'img/brands/b8.png'
-    link: '#'
-  - image: 'img/brands/b9.png'
-    link: '#'
-  - image: 'img/brands/b10.png'
-    link: '#'
+  - image: 'img/brands/edeka.png'
+    link: 'https://www.edeka.de'
+  - image: 'img/brands/volg.png'
+    link: 'https://www.volg.ch'
+  # - image: 'img/brands/b3.png'
+  #   link: '#'
+  # - image: 'img/brands/b4.png'
+  #   link: '#'
+  # - image: 'img/brands/b5.png'
+  #   link: '#'
+  # - image: 'img/brands/b6.png'
+  #   link: '#'
+  # - image: 'img/brands/b7.png'
+  #   link: '#'
+  # - image: 'img/brands/b8.png'
+  #   link: '#'
+  # - image: 'img/brands/b9.png'
+  #   link: '#'
+  # - image: 'img/brands/b10.png'
+  #   link: '#'
 
 
 
@@ -355,45 +356,45 @@ bands_slider:
 testimonials:
 
 # Client
+- author: 'Michael Pessios'
+  avatar: '/img/review/pessios.jpg'
+  position: 'Store Owner, EDEKA-Pessios'
+  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+
+
+# # Client
 - author: 'Travor James'
   avatar: '/img/review/user.png'
   position: 'Head of Marketing, Apple Inc.'
   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
-# Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# # Client
+# - author: 'Travor James'
+#   avatar: '/img/review/user.png'
+#   position: 'Head of Marketing, Apple Inc.'
+#   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
-# Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# # Client
+# - author: 'Travor James'
+#   avatar: '/img/review/user.png'
+#   position: 'Head of Marketing, Apple Inc.'
+#   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
-# Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# # Client
+# - author: 'Travor James'
+#   avatar: '/img/review/user.png'
+#   position: 'Head of Marketing, Apple Inc.'
+#   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
-# Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-
-
-# Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# # Client
+# - author: 'Travor James'
+#   avatar: '/img/review/user.png'
+#   position: 'Head of Marketing, Apple Inc.'
+#   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
 #####################################
@@ -410,16 +411,16 @@ contact_title: 'Let''s talk.'
 contact_description: ''
 contact_image: 'img/title-icon.png'
 contact_email: 'hello@freshflow.ai'
-contact_email_2nd_line: 'We''d love to hear from you.'
-contact_phone: '+41 78 654 26 09'
+contact_email_2nd_line: 'We''d love to hear from you!'
+contact_phone: '+49 176 88123785'
 contact_phone_2nd_line: 'Mon to Fri 9AM to 6PM'
 contact_phone_2: '+49 172 663 42 00'
 contact_phone_2_2nd_line: 'Mon to Fri 9AM to 6PM'
 contact_calendly: 'https://calendly.com/freshflow'
 contact_calendly_title: 'Schedule a meeting with us'
 contact_calendly_2nd_line: 'at your convenience'
-contact_address: 'Freshflow c/o Factory Berlin  Lohmühlenstraße 65'
-contact_address_2nd_line: '12435 Berlin'
+contact_address: 'Freshflow UG'
+contact_address_2nd_line: 'c/o Factory Berlin Mitte <br>Rheinsberger Str. 76/77, 10115 Berlin'
 
 #####################################
 ##########     footer      ###########

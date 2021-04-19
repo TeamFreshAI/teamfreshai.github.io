@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="972" viewBox="0 0 744 972">
+  <g id="Wireframes_iPad_Pro_12_9_Portrait" data-name="Wireframes/iPad Pro/12,9&quot;/Portrait" transform="translate(0 2)">
+    <g id="Wireframes_Device_iPad_Pro_12.9_" data-name="Wireframes/Device/iPad Pro 12.9&quot;" transform="translate(742) rotate(90)">
+      <g id="Buttons">
+        <g id="Sleep_Wake" data-name="Sleep / Wake" transform="translate(0 43)" fill="#fff" stroke="#cccdc9" stroke-miterlimit="10" stroke-width="2">
+          <rect width="13" height="40" rx="2" stroke="none"/>
+          <rect x="-1" y="-1" width="15" height="42" rx="3" fill="none"/>
+        </g>
+        <g id="Volume_Up" data-name="Volume Up" transform="translate(69)" fill="#fff" stroke="#cccdc9" stroke-miterlimit="10" stroke-width="2">
+          <rect width="31" height="42" rx="2" stroke="none"/>
+          <rect x="-1" y="-1" width="33" height="44" rx="3" fill="none"/>
+        </g>
+        <g id="Volume_Down" data-name="Volume Down" transform="translate(111)" fill="#fff" stroke="#cccdc9" stroke-miterlimit="10" stroke-width="2">
+          <rect width="31" height="42" rx="2" stroke="none"/>
+          <rect x="-1" y="-1" width="33" height="44" rx="3" fill="none"/>
+        </g>
+      </g>
+      <g id="Body" transform="translate(2 2)">
+        <g id="Bezel" fill="#fff" stroke="#d0d0d0" stroke-miterlimit="10" stroke-width="3">
+          <rect width="968" height="740" rx="41" stroke="none"/>
+          <rect x="1.5" y="1.5" width="965" height="737" rx="39.5" fill="none"/>
+        </g>
+        <g id="Screen" transform="translate(29 28)" fill="#fff" stroke="#d8d8d2" stroke-miterlimit="10" stroke-width="2">
+          <rect width="910" height="682" rx="12" stroke="none"/>
+          <rect x="-1" y="-1" width="912" height="684" rx="13" fill="none"/>
+        </g>
+      </g>
+      <path id="Front_Facing_Camera" data-name="Front Facing Camera" d="M3.5,7A3.5,3.5,0,1,1,7,3.5,3.5,3.5,0,0,1,3.5,7Z" transform="translate(14 369)" fill="#e6e6e1"/>
+    </g>
+    <g id="Wireframes_iPad_Pro_12_9_Status_Bar_Landscape" data-name="Wireframes/iPad Pro/12,9&quot;/Status Bar/Landscape" transform="translate(44 35)">
+      <g id="Charge" transform="translate(615)">
+        <g id="Battery_Icon" data-name="Battery Icon" transform="translate(22 2)">
+          <path id="_" data-name="+" d="M2,1.5C2,2.263,1.131,2.895,0,3V0C1.131.105,2,.737,2,1.5Z" transform="translate(19 3)" fill="#b3b3af"/>
+          <path id="charge-2" data-name="charge" d="M1,0H8A0,0,0,0,1,8,0V6A0,0,0,0,1,8,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0Z" transform="translate(1.5 1.5)" fill="#a4a4a0"/>
+          <g id="battery" fill="none" stroke="#bdbdb9" stroke-miterlimit="10" stroke-width="0.5">
+            <rect width="19" height="9" rx="2" stroke="none"/>
+            <rect x="0.25" y="0.25" width="18.5" height="8.5" rx="1.75" fill="none"/>
+          </g>
+        </g>
+        <text id="Battery_Procentage" data-name="Battery Procentage" transform="translate(0 8)" fill="#80807d" font-size="10" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="0" y="0">57%</tspan></text>
+      </g>
+      <path id="W-Fi" d="M5.621,8h0L3.7,5.987A3.136,3.136,0,0,1,5.621,5.3a3.141,3.141,0,0,1,1.921.692L5.621,8ZM8.474,5.011h0a4.594,4.594,0,0,0-5.7,0L1.839,4.03A6.03,6.03,0,0,1,5.621,2.667,6.022,6.022,0,0,1,9.408,4.034l-.933.977Zm1.894-1.983h0a7.559,7.559,0,0,0-9.487,0L0,2.1A8.931,8.931,0,0,1,5.621,0,8.929,8.929,0,0,1,11.25,2.105l-.881.923Z" transform="translate(600 2.5)" fill="#a4a4a0"/>
+      <text id="Date" transform="translate(34 8)" fill="#80807d" font-size="10" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="-0.02em">Sun 11 No</tspan><tspan y="0">v</tspan></text>
+      <text id="Time" transform="translate(0 8)" fill="#80807d" font-size="10" font-family="Helvetica"><tspan x="0" y="0" letter-spacing="-0.02em">20:3</tspan><tspan y="0">8</tspan></text>
+    </g>
+    <g id="Wireframes_iOS_Home" data-name="Wireframes/iOS/Home" transform="translate(251 930)">
+      <rect id="Rectangle" width="240" height="5" rx="2.5" fill="#ccc"/>
+    </g>
+  </g>
+</svg>

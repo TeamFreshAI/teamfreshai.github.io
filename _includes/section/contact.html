@@ -3,9 +3,9 @@
         <div class="container">
             <div class="row justify-content-center section-title-wrap">
                 <div class="col-lg-12">
-                    <!-- <div class="title-img">
+                    <div class="title-img">
                         <img src="{{ site.contact_image | relative_url }}" alt="">
-                    </div> -->
+                    </div>
                     <h1>{{ site.contact_title }}</h1>
                     <p>
                        {{ site.contact_description }}
@@ -14,12 +14,11 @@
             </div>
             <div class="row justify-content-between align-items-start">
                 <div class="col-lg-6 col-md-6 contact-left">
-                    <!-- <div class="map-wrap relative" id="map"></div> -->
-                    <div class="map-wrap relative"></div>
+                    <div class="map-wrap relative" id="map"></div>
                     <span id="add-show" class="show-btn lnr lnr-chevron-right"></span>
                     <div class="contact-info">
-                        <!-- <span id="add-hide" class="cross-btn lnr lnr-cross"></span> -->
-                        <!-- <div class="single-line d-flex flex-row">
+                        <span id="add-hide" class="cross-btn lnr lnr-cross"></span>
+                        <div class="single-line d-flex flex-row">
                             <div class="icon">
                                 <span class="lnr lnr-home"></span>
                             </div>
@@ -27,35 +26,15 @@
                                 <h4>{{ site.contact_address }}</h4>
                                 <p>{{ site.contact_address_2nd_line }}</p>
                             </div>
-                        </div> -->
-                        <!-- <div class="single-line d-flex flex-row">
-                            <div class="icon">
-                                <span class="lnr lnr-phone-handset"></span>
-                            </div>
-                            <div class="desc">
-                                <a href="tel:{{ site.contact_phone }}">
-                                <h4>{{ site.contact_phone }}</h4></a>
-                                <p>{{ site.contact_phone_2nd_line }}</p>
-                            </div>
                         </div>
                         <div class="single-line d-flex flex-row">
                             <div class="icon">
                                 <span class="lnr lnr-phone-handset"></span>
                             </div>
                             <div class="desc">
-                                <a href="tel:{{ site.contact_phone_2 }}">
-                                <h4>{{ site.contact_phone_2 }}</h4></a>
-                                <p>{{ site.contact_phone_2_2nd_line }}</p>
-                            </div>
-                        </div> -->
-                        <div class="single-line d-flex flex-row">
-                            <div class="icon">
-                                <span class="lnr lnr-calendar-full"></span>
-                            </div>
-                            <div class="desc">
-                                <a href="{{ site.contact_calendly }}">
-                                <h4>{{ site.contact_calendly_title }}</h4></a>
-                                <p>{{ site.contact_calendly_2nd_line }}</p>
+                                <a href="tel:00(440)98655629865"></a>
+                                <h4>{{ site.contact_phone }}</h4>
+                                <p>{{ site.contact_phone_2nd_line }}</p>
                             </div>
                         </div>
                         <div class="single-line d-flex flex-row">
@@ -63,13 +42,13 @@
                                 <span class="lnr lnr-envelope"></span>
                             </div>
                             <div class="desc">
-                                <a href="mailto:{{ site.contact_email }}"><h4>{{ site.contact_email }}</h4></a>
+                                <h4>{{ site.contact_email }}</h4>
                                 <p class="mb-0">{{ site.contact_email_2nd_line }}</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 contact-right">
+                <div class="col-lg-5 col-md-6 contact-right">
                     <form class="form-area contact-form" id="myForm" action="mail.php" method="post">
                         <label for="">Your Name</label>
                         <input name="name" autocomplete="name" placeholder="Enter your name" onfocus="this.placeholder = ''"
@@ -81,14 +60,14 @@
                             onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control"
                             required="" type="email">
 
-                        <label for="">Subject</label>
+                        <label for="">SUbject</label>
                         <input name="subject" autocomplete="subject" placeholder="Enter subject" onfocus="this.placeholder = ''"
                             onblur="this.placeholder = 'Enter subject'" class="common-input mb-20 form-control"
                             required="" type="text">
 
                         <label for="">Message</label>
                         <textarea class="common-textarea form-control" cols="30" rows="7" name="message" autocomplete="message"
-                            placeholder="Enter Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'"
+                            placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'"
                             required=""></textarea>
                         <div class="">
                             <button class="genric-btn mt-30">Send Message</button>

@@ -55,20 +55,10 @@
             <div class="row align-items-center justify-content-between">
                 <div id="logo">
                     <a href="{{ '/' | relative_url }}">
-                        <img
-                        class="logo-1"
-                        srcset="
-                        {{ 'img/logo@2x.png' | relative_url }} 2x,
-                        {{ 'img/logo.png' | relative_url }} 1x"
-                        src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
                     </a>
                     <a href="index.html">
-                        <img
-                        class="logo-2"
-                        srcset="
-                        {{ 'img/logo@2x.png' | relative_url }} 2x,
-                        {{ 'img/logo.png' | relative_url }} 1x"
-                        src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                        <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
                     </a>
                 </div>
                 <div class="nav-wrap d-flex flex-row align-items-center">
@@ -79,11 +69,11 @@
                             </li>
                             <!-- <li>
                                 <a href="{{ '#features' | relative_url }}">Features</a>
-                            </li> -->
-                            <!-- <li>
+                            </li>
+                            <li>
                                 <a href="{{ '#pricing' | relative_url }}">Pricing</a>
-                            </li> -->
-                            <!-- <li class="menu-has-children">
+                            </li>
+                            <li class="menu-has-children">
                                 {% if page.name == 'blog' %}
                                 <a href="{{ 'blog' | relative_url }}">Blog</a>
                                 {% else %}
@@ -97,7 +87,7 @@
                     </nav>
                 </div>
                 <div>
-                    <a class="genric-btn" href="{{ '#contact' | relative_url }}">Free Demo</a>
+                    <a class="genric-btn" href="{{ site.request-demo }}">Free Demo</a>
                 </div>
                 <!-- #nav-menu-container -->
             </div>
