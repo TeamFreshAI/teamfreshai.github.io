@@ -1,29 +1,43 @@
-    <!-- Start hero-section -->
-    <section class="hero-section-bg relative">
-        <div class="vdo-section">
-            <div class="hero-vdo" 
-                data-vide-bg="{{ site.hero_product_video_video | absolute_url }}" 
-                data-vide-options="loop: true, muted: true">
-            </div>
-        </div>
-        <div class="content">
-            <div class="container">
-                <div class="row align-items-center relative">
-                    <div class="col-lg-6">
-                        <h1>
-                            {{ site.hero_product_video_name }}
-                        </h1>
-                        <p class="pt-20 pb-20 mw-510">
-                            {{ site.hero_product_video_text }}
-                        </p>
-                        <a href="{{ site.hero_product_video_btn_one_link | absolute_url }}" class="genric-btn2">{{ site.hero_product_video_btn_one_text }}</a>
-                    </div>
 
-                    <div class="col-lg-6">
-                        <img class="hero-img9" src="{{ site.hero_product_video_image | absolute_url }}" alt="">
+    <!-- Start hero-section -->
+    <section class="hero-section relative">
+        <div class="container">
+            <div class="row fullscreen align-items-center relative">
+                <div class="col-lg-6 col-md-6 content-wrap">
+                    <h1>
+                        {{ site.hero_product_video_name }}
+                    </h1>
+                    <p class="pt-20 pb-20 mw-510">
+                        {{ site.hero_product_video_text }}
+                    </p>
+                    <a href="{{ site.hero_product_video_btn_one_link }}" class="genric-btn2">
+                        {{ site.hero_product_video_btn_one_text }}
+                    </a>
+                </div>
+                <style>
+                #video_box {
+                    position: relative;
+                }
+                #video_overlays {
+                    position: absolute;
+                    width: 540px;
+                    z-index: 300000;
+                    bottom: -30px;
+                    text-align: center;
+                }
+                </style>
+                <div class="col-lg-6 col-md-6 text-center">
+                    <div id="video_box">
+                        <div id="video_overlays"><img class="img-fluid" src="{{ site.hero_product_video_image }}" alt=""></div>
+                        <div>
+                            <video width="470" poster="{{ site.hero_product_video_image }}" autoplay>
+                                <source src="{{ site.hero_product_video_video }}" type="video/mp4">
+                            </video>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </section>
     <!-- End hero-section -->

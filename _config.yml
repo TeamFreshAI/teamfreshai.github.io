@@ -42,7 +42,7 @@ disqus:
 # product_slider                    sass_fixed_image
 # product_video                     sass_slider
 
-hero: 'product'
+hero: 'product_video'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order everytime.'
@@ -93,12 +93,12 @@ hero_product_btn_one_link: '#contact'
 hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
-hero_product_video_name: 'The most Creative <br> Theame ever in Business'
-hero_product_video_text: 'The first is a non technical method which requires the use of adware removal software. ownload free adware and spyware removal'
-hero_product_video_image: 'img/iPhoneX.png'
-hero_product_video_video: 'vdo/app-bv.mp4'
-hero_product_video_btn_one_link: '#'
-hero_product_video_btn_one_text:  'Browse free demo'
+hero_product_video_name: 'Place the perfect order everytime.'
+hero_product_video_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
+hero_product_video_image: 'img/hero/ipad@3x.png'
+hero_product_video_video: 'vdo/app-proof9.mov'
+hero_product_video_btn_one_link: '#contact'
+hero_product_video_btn_one_text:  'Schedule free demo'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
