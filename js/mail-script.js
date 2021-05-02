@@ -2,7 +2,7 @@
 
      $(document).ready(function() {
         var form = $('#myForm'); // contact form
-        var submit = $('contact-form .submit-btn'); // submit button
+        var submit = $('.contact-form .submit-btn'); // submit button
         var alert = $('.alert-msg'); // alert div for show alert message
 
         // form submit event
