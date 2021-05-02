@@ -12,7 +12,7 @@
             $.ajax({
                 url: 'https://formspree.io/f/xgerozzq', // form action url
                 type: 'POST', // form submit method get/post
-                dataType: 'html', // request type html/json/xml
+                dataType: 'json', // request type html/json/xml
                 data: form.serialize(), // serialize form data
                 beforeSend: function() {
                     alert.fadeOut();
