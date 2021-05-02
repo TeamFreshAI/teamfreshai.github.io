@@ -11,7 +11,7 @@ $(document).ready(function () {
     $(".fitscreen").css("height", fitscreen);
 
     /* ---------------------------------------------
-        Initiate superfish on nav menu 
+        Initiate superfish on nav menu
      --------------------------------------------- */
 
     $('.nav-menu').superfish({
@@ -536,7 +536,7 @@ $(document).ready(function () {
         function init() {
             var mapOptions = {
                 zoom: 11,
-                center: new google.maps.LatLng(40.6700, -73.9400), // New York
+                center: new google.maps.LatLng(52.536800, 13.394940), // Factory Berlin Mitte
                 styles: [{
                     "featureType": "water",
                     "elementType": "geometry",
@@ -658,9 +658,9 @@ $(document).ready(function () {
             var mapElement = document.getElementById('map');
             var map = new google.maps.Map(mapElement, mapOptions);
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(40.6700, -73.9400),
+                position: new google.maps.LatLng(52.536800, 13.394940),
                 map: map,
-                title: 'Snazzy!'
+                title: 'Freshflow'
             });
         }
     }
