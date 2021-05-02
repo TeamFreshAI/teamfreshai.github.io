@@ -46,7 +46,7 @@ hero: 'product_video'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order every time.'
-hero_sass_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
+hero_sass_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
