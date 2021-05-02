@@ -45,7 +45,7 @@ disqus:
 hero: 'product_video'
 
 # sass [ only one image ]
-hero_sass_name: 'Place the perfect order everytime.'
+hero_sass_name: 'Place the perfect order every time.'
 hero_sass_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing food waste.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
@@ -86,14 +86,14 @@ hero_sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-hero_product_name: 'Place the perfect order everytime.'
+hero_product_name: 'Place the perfect order every time.'
 hero_product_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
 hero_product_image: 'img/hero/hero-img2@3x.png'
 hero_product_btn_one_link: '#contact'
 hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
-hero_product_video_name: 'Place the perfect order everytime.'
+hero_product_video_name: 'Place the perfect order every time.'
 hero_product_video_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow/app-proof12.mp4'
