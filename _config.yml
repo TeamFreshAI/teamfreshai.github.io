@@ -3,14 +3,17 @@
 ######     Global start     ######
 ####################################
 name                : 'Freshflow'
-title               : 'Freshflow - AI forecasting and replenishment engine for supermarkets.'
+title               : 'Freshflow – Fresh-first, A.I.-powered food supply chain solutions for retailers'
 email               : "hello@freshflow.ai"
 address             : 'c/o Factory Berlin Mitte  Rheinsberger Str. 76/77, 10115 Berlin'
 phone               : "+49 176 88123785"
 tagline             : 'AI forecasting and replenishment engine for supermarkets'
 description: >- # this means to ignore newlines until "baseurl:"
-  Freshflow - AI forecasting and replenishment engine for supermarkets.
-  Place the perfect order every time with Freshflow's AI-driven platform.
+  Freshflow - Fresh-first, A.I.-powered food supply chain solutions for retailers.
+  We’re reimagining the food supply chain starting with grocery retailers.
+  Freshflow is a new way to manage fresh products in supermarkets.
+  We do accurate order forecasting and recommendations that massively reduce food waste while still keeping shelves full.
+  Doing that, we generate millions in savings for these businesses.
 baseurl             : "" # the subpath of your site, e.g. /blog
 url                 : "https://freshflow.ai/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username    : freshflowai
