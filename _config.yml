@@ -5,7 +5,7 @@
 name                : 'Freshflow'
 title               : 'Freshflow – Fresh-first, A.I.-powered food supply chain solutions for retailers'
 email               : "hello@freshflow.ai"
-address             : 'c/o Factory Berlin Mitte  Rheinsberger Str. 76/77, 10115 Berlin'
+address             : 'Freshflow UG, Friedrichstr. 123, 10117, Berlin, Germany'
 phone               : "+49 176 88123785"
 tagline             : 'Fresh-first, A.I.-powered food supply chain solutions for retailers'
 description: >- # this means to ignore newlines until "baseurl:"
@@ -427,7 +427,7 @@ contact_calendly: 'https://calendly.com/freshflow'
 contact_calendly_title: 'Schedule a meeting with us'
 contact_calendly_2nd_line: 'at your convenience'
 contact_address: 'Freshflow UG'
-contact_address_2nd_line: 'c/o Factory Berlin Mitte <br>Rheinsberger Str. 76/77, 10115 Berlin'
+contact_address_2nd_line: 'Friedrichstr. 123<br>10117 Berlin, Germany'
 
 #####################################
 ##########     footer      ###########

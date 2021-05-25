@@ -536,7 +536,7 @@ $(document).ready(function () {
         function init() {
             var mapOptions = {
                 zoom: 11,
-                center: new google.maps.LatLng(52.536800, 13.394940), // Factory Berlin Mitte
+                center: new google.maps.LatLng(52.526200, 13.386980), // Friedrichstr. 123
                 styles: [{
                     "featureType": "water",
                     "elementType": "geometry",
