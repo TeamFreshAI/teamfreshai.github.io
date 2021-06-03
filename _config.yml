@@ -328,8 +328,8 @@ unique_feature_section_two_link: '#'
 #####################################
 
 bands_slider:
-  - image: 'img/brands/edeka.png'
-    link: 'https://www.edeka.de'
+  # - image: 'img/brands/edeka.png'
+  #   link: 'https://www.edeka.de'
   - image: 'img/brands/ef.jpg'
     link: 'https://www.joinef.com'
   - image: 'img/brands/alanturing.png'
