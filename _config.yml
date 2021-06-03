@@ -336,6 +336,8 @@ bands_slider:
     link: 'https://turing.ac.uk'
   - image: 'img/brands/eth.png'
     link: 'https://www.ethz.ch/'
+  - image: 'img/brands/ftc.png'
+    link: 'https://foodtechcampus.com'
   # - image: 'img/brands/volg.png'
   #   link: 'https://www.volg.ch'
   # - image: 'img/brands/b4.png'
