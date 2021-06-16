@@ -11,7 +11,7 @@ tagline             : 'Fresh-first, A.I.-powered food supply chain solutions for
 description: >- # this means to ignore newlines until "baseurl:"
   Freshflow - Fresh-first, A.I.-powered food supply chain solutions for retailers.
   We’re reimagining the food supply chain starting with grocery retailers.
-  Freshflow is a new way to manage fresh products in supermarkets.
+  Freshflow is a new way to manage fresh products in grocery retailers.
   We do accurate order forecasting and recommendations that massively reduce food waste while still keeping shelves full.
   Doing that, we generate millions in savings for these businesses.
 baseurl             : "" # the subpath of your site, e.g. /blog
@@ -49,7 +49,7 @@ hero: 'product_video'
 
 # sass [ only one image ]
 hero_sass_name: 'Place the perfect order every time.'
-hero_sass_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
+hero_sass_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
@@ -90,14 +90,14 @@ hero_sass_slider:
 
 # product [ only one image ]
 hero_product_name: 'Place the perfect order every time.'
-hero_product_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
+hero_product_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
 hero_product_image: 'img/hero/hero-img2@3x.png'
 hero_product_btn_one_link: '#contact'
 hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
 hero_product_video_name: 'Place the perfect order every time.'
-hero_product_video_text: 'Sales forecasting and replenishment for fresh products in supermarkets is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
+hero_product_video_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
@@ -436,7 +436,7 @@ contact_address_2nd_line: 'Friedrichstr. 123<br>10117 Berlin, Germany'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We''re <a href="https://www.linkedin.com/in/avikmukhija/">Avik Mukhija</a> and <a href="https://www.linkedin.com/in/carminepaolino/">Carmine Paolino</a>, two Machine Learning Scientists who want to reduce food waste while increasing supermarkets'' profit margins.'
+footer_description: 'We''re <a href="https://www.linkedin.com/in/avikmukhija/">Avik Mukhija</a> and <a href="https://www.linkedin.com/in/carminepaolino/">Carmine Paolino</a>, two Machine Learning Scientists who want to reduce food waste while increasing grocery retailers'' profit margins.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
