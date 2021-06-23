@@ -101,7 +101,7 @@ hero_product_video_text: 'Sales forecasting and replenishment for fresh products
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
-hero_product_video_btn_one_text:  'Schedule free demo'
+hero_product_video_btn_one_text:  'Contact us'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
@@ -328,13 +328,13 @@ unique_feature_section_two_link: '#'
 #####################################
 
 bands_slider:
-  # - image: 'img/brands/edeka.png'
-  #   link: 'https://www.edeka.de'
+  - image: 'img/brands/edeka-pessios.png'
+    link: 'https://edeka-pessios.de'
   - image: 'img/brands/volg.png'
     link: 'https://www.volg.ch'
   - image: 'img/brands/ftc.png'
     link: 'https://foodtechcampus.com'
-  - image: 'img/brands/ef.jpg'
+  - image: 'img/brands/ef.png'
     link: 'https://www.joinef.com'
   - image: 'img/brands/alanturing.png'
     link: 'https://turing.ac.uk'
@@ -368,14 +368,14 @@ testimonials:
 - author: 'Michael Pessios'
   avatar: '/img/review/pessios.jpg'
   position: 'Store Owner, EDEKA-Pessios'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
 
 
-# # Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# Client
+- author: 'Michael Pessios'
+  avatar: '/img/review/pessios.jpg'
+  position: 'Store Owner, EDEKA-Pessios'
+  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
 
 
 # # Client
