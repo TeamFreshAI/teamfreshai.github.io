@@ -1,4 +1,3 @@
-
 ####################################
 ######     Global start     ######
 ####################################
@@ -101,7 +100,7 @@ hero_product_video_text: 'Sales forecasting and replenishment for fresh products
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
-hero_product_video_btn_one_text:  'Schedule free demo'
+hero_product_video_btn_one_text:  'Contact us'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
@@ -180,18 +179,16 @@ request-demo: '#contact'
 ####################################
 
 feature_image_one: 'img/feature/i1.png'
-feature_title_one: 'Full product availability while saving millions'
-feature_description_one: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
+feature_title_one: 'Collaboration'
+feature_description_one: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
 
 feature_image_two: 'img/feature/i3.png'
-feature_title_two: 'AI-based demand forecasting'
-feature_description_two: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales, shrink, out-of-stocks, demand growth rate, inventory, weather data,
-external events - even pandemics!'
+feature_title_two: 'Full of features'
+feature_description_two: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 feature_image_three: 'img/feature/i4.png'
-feature_title_three: 'Molded for fresh'
-feature_description_three: 'Freshflow was created from scratch specifically for the challenges of fresh products. These include
-unexpected events like delivery bottlenecks, varying shelf lives, quality variations, seasonality, fluctuating demand.'
+feature_title_three: 'Global Framework'
+feature_description_three: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 
 ####################################
@@ -209,32 +206,46 @@ marketing_btn_link: '#'
 ######  Statistics Section    ######
 ####################################
 statistics_title: 'We glow with Our Statistics'
-statistics_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+statistics_description: ''
 statistics_image: 'img/title-icon.png'
 
 # main big image
 statistics_start_image: 'img/stat/stat-img.png'
 
-# 4 section image
-statistics_item_one_image: 'img/stat/s1.png'
+statistics_item_one_image: 'img/stat/cart.png'
 statistics_item_one_title: 'Full product availability while saving millions'
 statistics_item_one_link: '#'
 statistics_item_one_description: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
 
-statistics_item_two_image: 'img/stat/s2.png'
-statistics_item_two_title: 'Sales Monitoring'
+statistics_item_two_image: 'img/stat/demand_forecast.png'
+statistics_item_two_title: 'AI-based demand forecasting'
 statistics_item_two_link: '#'
-statistics_item_two_description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+statistics_item_two_description: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales, data, demand growth rate, shrink, out of stocks, inventory, weather data,
+external events - even pandemics!'
 
-statistics_item_three_image: 'img/stat/s2.png'
-statistics_item_three_title: 'Payment Stats'
+statistics_item_three_image: 'img/stat/s3.png'
+statistics_item_three_title: 'Keep your inventory lean'
 statistics_item_three_link: '#'
-statistics_item_three_description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+statistics_item_three_description: 'Through smarter ordering, Freshflow enables you to keep a lean inventory and a just-in-time supply chain. The demand for your products is large, but your storage isn''t - 
+Freshflow has you covered.'
 
 statistics_item_four_image: 'img/stat/s4.png'
-statistics_item_four_title: 'Pending Clearnance'
+statistics_item_four_title: 'Fresh-first'
 statistics_item_four_link: '#'
-statistics_item_four_description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+statistics_item_four_description: 'Freshflow was created from scratch specifically for the challenges of fresh products. These include
+unexpected events like delivery bottlenecks, varying shelf lives, quality variations,
+seasonality, fluctuating demand.'
+
+statistics_item_five_image: 'img/stat/easy_integration.png'
+statistics_item_five_title: 'Easy integration'
+statistics_item_five_link: '#'
+statistics_item_five_description: 'Freshflow works effortlessly with your existing IT systems. We handle all of the heavy lifting when it comes to integration. A system integration is not even necessary: we only require a CSV export from your ERP system every 24 hours: orders, sales, shrink'
+
+statistics_item_six_image: 'img/stat/data_privacy.png'
+statistics_item_six_title: 'Data privacy'
+statistics_item_six_link: '#'
+statistics_item_six_description: 'The security of your data is of utmost priority to us. All your data is fully encrypted, conforming to GDPR and under no circumstances is
+shared with any third parties'
 
 ####################################
 ######    cta Section      ######
@@ -249,7 +260,7 @@ cta_btn_text_two: 'Ask us anything'
 ######    Social Section      ######
 ####################################
 social_title: 'Manage Social Network with Our Managing Toolkit'
-social_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
+social_description: ''
 social_image: 'img/social-img.png'
 social_button_text: 'Browse free demo'
 social_button_link: '#'
@@ -330,18 +341,18 @@ unique_feature_section_two_link: '#'
 #####################################
 
 bands_slider:
-  # - image: 'img/brands/edeka.png'
-  #   link: 'https://www.edeka.de'
-  - image: 'img/brands/ef.jpg'
+  - image: 'img/brands/edeka-pessios.png'
+    link: 'https://edeka-pessios.de'
+  - image: 'img/brands/volg.png'
+    link: 'https://www.volg.ch'
+  - image: 'img/brands/ftc.png'
+    link: 'https://foodtechcampus.com'
+  - image: 'img/brands/ef.png'
     link: 'https://www.joinef.com'
   - image: 'img/brands/alanturing.png'
     link: 'https://turing.ac.uk'
   - image: 'img/brands/eth.png'
     link: 'https://www.ethz.ch/'
-  - image: 'img/brands/ftc.png'
-    link: 'https://foodtechcampus.com'
-  # - image: 'img/brands/volg.png'
-  #   link: 'https://www.volg.ch'
   # - image: 'img/brands/b4.png'
   #   link: '#'
   # - image: 'img/brands/b5.png'
@@ -373,11 +384,11 @@ testimonials:
   quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
 
 
-# # Client
-- author: 'Travor James'
-  avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+# Client
+- author: 'Michael Pessios'
+  avatar: '/img/review/pessios.jpg'
+  position: 'Store Owner, EDEKA-Pessios'
+  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
 
 
 # # Client
