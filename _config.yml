@@ -101,7 +101,7 @@ hero_product_video_text: 'Sales forecasting and replenishment for fresh products
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
-hero_product_video_btn_one_text:  'Contact us'
+hero_product_video_btn_one_text:  'Schedule free demo'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
@@ -180,16 +180,18 @@ request-demo: '#contact'
 ####################################
 
 feature_image_one: 'img/feature/i1.png'
-feature_title_one: 'Collaboration'
-feature_description_one: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
+feature_title_one: 'Full product availability while saving millions'
+feature_description_one: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
 
 feature_image_two: 'img/feature/i3.png'
-feature_title_two: 'Full of features'
-feature_description_two: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+feature_title_two: 'AI-based demand forecasting'
+feature_description_two: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales, shrink, out-of-stocks, demand growth rate, inventory, weather data,
+external events - even pandemics!'
 
 feature_image_three: 'img/feature/i4.png'
-feature_title_three: 'Global Framework'
-feature_description_three: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+feature_title_three: 'Molded for fresh'
+feature_description_three: 'Freshflow was created from scratch specifically for the challenges of fresh products. These include
+unexpected events like delivery bottlenecks, varying shelf lives, quality variations, seasonality, fluctuating demand.'
 
 
 ####################################
@@ -215,9 +217,9 @@ statistics_start_image: 'img/stat/stat-img.png'
 
 # 4 section image
 statistics_item_one_image: 'img/stat/s1.png'
-statistics_item_one_title: 'Productivity'
+statistics_item_one_title: 'Full product availability while saving millions'
 statistics_item_one_link: '#'
-statistics_item_one_description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+statistics_item_one_description: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
 
 statistics_item_two_image: 'img/stat/s2.png'
 statistics_item_two_title: 'Sales Monitoring'
@@ -328,18 +330,18 @@ unique_feature_section_two_link: '#'
 #####################################
 
 bands_slider:
-  - image: 'img/brands/edeka-pessios.png'
-    link: 'https://edeka-pessios.de'
-  - image: 'img/brands/volg.png'
-    link: 'https://www.volg.ch'
-  - image: 'img/brands/ftc.png'
-    link: 'https://foodtechcampus.com'
-  - image: 'img/brands/ef.png'
+  # - image: 'img/brands/edeka.png'
+  #   link: 'https://www.edeka.de'
+  - image: 'img/brands/ef.jpg'
     link: 'https://www.joinef.com'
   - image: 'img/brands/alanturing.png'
     link: 'https://turing.ac.uk'
   - image: 'img/brands/eth.png'
     link: 'https://www.ethz.ch/'
+  - image: 'img/brands/ftc.png'
+    link: 'https://foodtechcampus.com'
+  # - image: 'img/brands/volg.png'
+  #   link: 'https://www.volg.ch'
   # - image: 'img/brands/b4.png'
   #   link: '#'
   # - image: 'img/brands/b5.png'
@@ -371,11 +373,11 @@ testimonials:
   quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
 
 
-# Client
-- author: 'Michael Pessios'
-  avatar: '/img/review/pessios.jpg'
-  position: 'Store Owner, EDEKA-Pessios'
-  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
+# # Client
+- author: 'Travor James'
+  avatar: '/img/review/user.png'
+  position: 'Head of Marketing, Apple Inc.'
+  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 
 
 # # Client
