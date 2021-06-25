@@ -212,36 +212,36 @@ statistics_image: 'img/title-icon.png'
 # main big image
 statistics_start_image: 'img/stat/stat-img.png'
 
-statistics_item_one_image: 'img/stat/cart.png'
+statistics_item_one_image: 'img/stat/cart_resized.png'
 statistics_item_one_title: 'Full product availability while saving millions'
 statistics_item_one_link: '#'
 statistics_item_one_description: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
 
-statistics_item_two_image: 'img/stat/demand_forecast.png'
+statistics_item_two_image: 'img/stat/demand_forecast_resized.png'
 statistics_item_two_title: 'AI-based demand forecasting'
 statistics_item_two_link: '#'
 statistics_item_two_description: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales, data, demand growth rate, shrink, out of stocks, inventory, weather data,
 external events - even pandemics!'
 
-statistics_item_three_image: 'img/stat/s3.png'
+statistics_item_three_image: 'img/stat/lean_inventory_resized.png'
 statistics_item_three_title: 'Keep your inventory lean'
 statistics_item_three_link: '#'
 statistics_item_three_description: 'Through smarter ordering, Freshflow enables you to keep a lean inventory and a just-in-time supply chain. The demand for your products is large, but your storage isn''t - 
 Freshflow has you covered.'
 
-statistics_item_four_image: 'img/stat/s4.png'
+statistics_item_four_image: 'img/stat/fruits_resized.png'
 statistics_item_four_title: 'Fresh-first'
 statistics_item_four_link: '#'
 statistics_item_four_description: 'Freshflow was created from scratch specifically for the challenges of fresh products. These include
 unexpected events like delivery bottlenecks, varying shelf lives, quality variations,
 seasonality, fluctuating demand.'
 
-statistics_item_five_image: 'img/stat/easy_integration.png'
+statistics_item_five_image: 'img/stat/easy_integration_resized.png'
 statistics_item_five_title: 'Easy integration'
 statistics_item_five_link: '#'
 statistics_item_five_description: 'Freshflow works effortlessly with your existing IT systems. We handle all of the heavy lifting when it comes to integration. A system integration is not even necessary: we only require a CSV export from your ERP system every 24 hours: orders, sales, shrink'
 
-statistics_item_six_image: 'img/stat/data_privacy.png'
+statistics_item_six_image: 'img/stat/data_privacy_resized.png'
 statistics_item_six_title: 'Data privacy'
 statistics_item_six_link: '#'
 statistics_item_six_description: 'The security of your data is of utmost priority to us. All your data is fully encrypted, conforming to GDPR and under no circumstances is
