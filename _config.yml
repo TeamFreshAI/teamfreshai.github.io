@@ -47,8 +47,8 @@ disqus:
 hero: 'product_video'
 
 # sass [ only one image ]
-hero_sass_name: 'Place the perfect order every time.'
-hero_sass_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
+hero_sass_name: 'Die perfekte Bestellung, jedes Mal.'
+hero_sass_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert Ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
 hero_sass_btn_one_text:  'Let''s talk'
@@ -88,19 +88,19 @@ hero_sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-hero_product_name: 'Place the perfect order every time.'
-hero_product_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for less shrink, without sacrificing full shelves. Maximize your profits while reducing shrink and stock-outs.'
+hero_product_name: 'Die perfekte Bestellung, jedes Mal.'
+hero_product_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_product_image: 'img/hero/hero-img2@3x.png'
 hero_product_btn_one_link: '#contact'
 hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
-hero_product_video_name: 'Place the perfect order every time.'
-hero_product_video_text: 'Sales forecasting and replenishment for fresh products in grocery retailers is hard. Freshflow''s state-of-the-art AI engine optimizes for full shelves, more revenue and less shrink. Maximize your profits by reducing stock-outs and shrink at the same time.'
+hero_product_video_name: 'Die perfekte Bestellung, jedes Mal.'
+hero_product_video_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
-hero_product_video_btn_one_text:  'Contact us'
+hero_product_video_btn_one_text:  'Kontaktieren Sie uns'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
@@ -213,46 +213,48 @@ statistics_image: 'img/title-icon.png'
 statistics_start_image: 'img/stat/stat-img.png'
 
 statistics_item_one_image: 'img/stat/cart_resized.png'
-statistics_item_one_title: 'Full product availability while saving millions'
+statistics_item_one_title: 'Volle Regale haben und gleichzeitig Millionen sparen'
 statistics_item_one_link: '#'
-statistics_item_one_description: 'Freshflow orders the perfect amount of every SKU, every day. Through demand-tailored orders, we reduce your out-of-stocks and shrink. Think: increase your profit margins and top-line revenue at the same time.'
+statistics_item_one_description: 'Freshflow beschafft von jedem Artikel jeden Tag die perfekte Menge. Wir steigern durch bedarfsgerechtere Bestellungen gleichzeitig Ihre Profitmargen als auch Umsätze. Das bedeutet: Sie erfahren eine starke Reduktion in Nullbeständen sowie Abschriften.'
 
 statistics_item_two_image: 'img/stat/demand_forecast_resized.png'
-statistics_item_two_title: 'AI-based demand forecasting'
+statistics_item_two_title: 'KI-basierte Nachfragevorhersage'
 statistics_item_two_link: '#'
-statistics_item_two_description: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales data, demand growth rate, shrink, out-of-stocks, inventory, weather data,
-external events - even pandemics!'
+statistics_item_two_description: 'In die Vorhersage fliessen Dutzende von Faktoren: historische
+Verkaufsdaten, Abschriften, Nullbestände, Bestandsdaten, Wetterdaten, externe Geschehnisse sogar Pandemien!'
 
 statistics_item_three_image: 'img/stat/lean_inventory_resized.png'
-statistics_item_three_title: 'Keep your inventory lean'
+statistics_item_three_title: 'Schlanke Inventur'
 statistics_item_three_link: '#'
-statistics_item_three_description: 'Through smarter ordering, Freshflow enables you to keep a lean inventory and a just-in-time supply chain. The demand for your products is large, but your storage isn''t - 
-Freshflow has you covered.'
+statistics_item_three_description: 'Durch smartes Bestellen ermöglicht Freshflow eine schlanke Inventur zu führen, ganz im Sinne einer Just-In-Time Supply Chain. Die Nachfrage für Ihre Produkte ist gross, aber Ihre Lager sind es nicht - 
+Freshflow weiss damit umzugehen.'
 
 statistics_item_four_image: 'img/stat/fruits_resized.png'
-statistics_item_four_title: 'Fresh-first'
+statistics_item_four_title: 'Wie gegossen für Frischwaren'
 statistics_item_four_link: '#'
-statistics_item_four_description: 'Freshflow was created from scratch specifically for the challenges of fresh products. These include
-unexpected events like delivery bottlenecks, varying shelf lives, quality variations,
-seasonality, fluctuating demand.'
+statistics_item_four_description: 'Freshflow wurde von Grund auf für die Herausforderungen von Frischwaren
+entwickelt. Dazu gehören unerwartete Geschehnisse wie Lieferengpässe, unterschiedliche Haltbarkeiten ,
+Qualitätsvariationen, Saisonalitäten, fluktuierende Nachfragen.'
 
 statistics_item_five_image: 'img/stat/easy_integration_resized.png'
-statistics_item_five_title: 'Easy integration'
+statistics_item_five_title: 'Einfache Integration'
 statistics_item_five_link: '#'
-statistics_item_five_description: 'Freshflow works effortlessly with your existing IT systems. We handle all of the heavy lifting when it comes to integration. A system integration is not even necessary: we only require a CSV export from your ERP system every 24 hours: orders, sales, shrink.'
+statistics_item_five_description: 'Freshflow funktioniert mühelos mit Ihren existierenden IT Systemen. Wir
+übernehmen das schwere Heben. Für die Pilotphase ist eine Systemintegration nicht mal notwendig : wir brauchen lediglich all 24 Stunden einen CSV Export von
+Ihrem Warenwirtschaftssystem: Bestellungen, Bestände, Abverkäufe und Abschriften.'
 
 statistics_item_six_image: 'img/stat/data_privacy_resized.png'
-statistics_item_six_title: 'Data privacy'
+statistics_item_six_title: 'Datensicherheit'
 statistics_item_six_link: '#'
-statistics_item_six_description: 'The security of your data is of utmost priority to us. All your data is fully encrypted, conforming to GDPR and under no circumstances is
-shared with any third parties.'
+statistics_item_six_description: 'Die Sicherheit Ihrer Daten ist bei uns von höchster Priorität All Ihre Daten sind bei uns vollständig verschlüsselt, GDPR konform und werden unter keinen Umständen
+mit Dritten geteilt.'
 
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: 'Want to learn more?'
+cta_title: 'Sie möchten mehr erfahren?'
 cta_btn_link_one: 'https://calendly.com/freshflow'
-cta_btn_text_one: 'Schedule a call'
+cta_btn_text_one: 'Termin wählen'
 cta_btn_link_two: '#contact'
 cta_btn_text_two: 'Ask us anything'
 
