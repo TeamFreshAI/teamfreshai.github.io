@@ -220,7 +220,7 @@ statistics_item_one_description: 'Freshflow orders the perfect amount of every S
 statistics_item_two_image: 'img/stat/demand_forecast_resized.png'
 statistics_item_two_title: 'AI-based demand forecasting'
 statistics_item_two_link: '#'
-statistics_item_two_description: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales data, demand growth rate, shrink, out of stocks, inventory, weather data,
+statistics_item_two_description: 'In order to compute the forecast, Freshflow considers dozens of factors for each one of your locations: storage/warehouse size, historical sales data, demand growth rate, shrink, out-of-stocks, inventory, weather data,
 external events - even pandemics!'
 
 statistics_item_three_image: 'img/stat/lean_inventory_resized.png'
