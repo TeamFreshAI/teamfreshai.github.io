@@ -51,7 +51,7 @@ hero_sass_name: 'Die perfekte Bestellung, jedes Mal.'
 hero_sass_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert Ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#contact'
-hero_sass_btn_one_text:  'Let''s talk'
+hero_sass_btn_one_text:  'Beginnen wir das Gespräch.'
 hero_sass_btn_two_link: 'https://calendly.com/freshflow'
 hero_sass_btn_two_text: 'Schedule a call'
 
@@ -89,14 +89,14 @@ hero_sass_slider:
 
 # product [ only one image ]
 hero_product_name: 'Die perfekte Bestellung, jedes Mal.'
-hero_product_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
+hero_product_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert Ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_product_image: 'img/hero/hero-img2@3x.png'
 hero_product_btn_one_link: '#contact'
 hero_product_btn_one_text:  'Schedule free demo'
 
 # product_video [ video type mp4 ]
 hero_product_video_name: 'Die perfekte Bestellung, jedes Mal.'
-hero_product_video_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
+hero_product_video_text: 'Die optimale Bestellung von Frischwaren im Lebensmitteleinzelhandel ist schwer. Die Künstliche Intelligenz von Freshflow optimiert Ihre Bestellungen für volle Regale, mehr Umsatz und weniger Abschriften. Maximieren Sie Ihre Profite durch eine Reduktion in Nullbeständen und Abschriften - gleichzeitig.'
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
@@ -221,12 +221,12 @@ statistics_item_two_image: 'img/stat/demand_forecast_resized.png'
 statistics_item_two_title: 'KI-basierte Nachfragevorhersage'
 statistics_item_two_link: '#'
 statistics_item_two_description: 'In die Vorhersage fliessen Dutzende von Faktoren: historische
-Verkaufsdaten, Abschriften, Nullbestände, Bestandsdaten, Wetterdaten, externe Geschehnisse sogar Pandemien!'
+Verkaufsdaten, Abschriften, Nullbestände, Bestandsdaten, Wetterdaten, externe Geschehnisse - sogar Pandemien!'
 
 statistics_item_three_image: 'img/stat/lean_inventory_resized.png'
 statistics_item_three_title: 'Schlanke Inventur'
 statistics_item_three_link: '#'
-statistics_item_three_description: 'Durch smartes Bestellen ermöglicht Freshflow eine schlanke Inventur zu führen, ganz im Sinne einer Just-In-Time Supply Chain. Die Nachfrage für Ihre Produkte ist gross, aber Ihre Lager sind es nicht - 
+statistics_item_three_description: 'Durch smartes Bestellen ermöglicht Freshflow eine schlanke Inventur zu führen, ganz im Sinne einer Just-In-Time Supply Chain. Die Nachfrage für Ihre Produkte ist gross, aber Ihre Lagerräume sind es nicht - 
 Freshflow weiss damit umzugehen.'
 
 statistics_item_four_image: 'img/stat/fruits_resized.png'
@@ -240,13 +240,13 @@ statistics_item_five_image: 'img/stat/easy_integration_resized.png'
 statistics_item_five_title: 'Einfache Integration'
 statistics_item_five_link: '#'
 statistics_item_five_description: 'Freshflow funktioniert mühelos mit Ihren existierenden IT Systemen. Wir
-übernehmen das schwere Heben. Für die Pilotphase ist eine Systemintegration nicht mal notwendig : wir brauchen lediglich all 24 Stunden einen CSV Export von
+übernehmen das schwere Heben. Für die Pilotphase ist eine Systemintegration nicht mal notwendig: wir brauchen lediglich all 24 Stunden einen CSV Export von
 Ihrem Warenwirtschaftssystem: Bestellungen, Bestände, Abverkäufe und Abschriften.'
 
 statistics_item_six_image: 'img/stat/data_privacy_resized.png'
 statistics_item_six_title: 'Datensicherheit'
 statistics_item_six_link: '#'
-statistics_item_six_description: 'Die Sicherheit Ihrer Daten ist bei uns von höchster Priorität All Ihre Daten sind bei uns vollständig verschlüsselt, GDPR konform und werden unter keinen Umständen
+statistics_item_six_description: 'Die Sicherheit Ihrer Daten ist bei uns von höchster Priorität. All Ihre Daten sind vollständig verschlüsselt, GDPR konform und werden unter keinen Umständen
 mit Dritten geteilt.'
 
 ####################################
@@ -256,7 +256,7 @@ cta_title: 'Sie möchten mehr erfahren?'
 cta_btn_link_one: 'https://calendly.com/freshflow'
 cta_btn_text_one: 'Termin wählen'
 cta_btn_link_two: '#contact'
-cta_btn_text_two: 'Ask us anything'
+cta_btn_text_two: 'FRAGEN STELLEN'
 
 ####################################
 ######    Social Section      ######
@@ -382,15 +382,15 @@ testimonials:
 # Client
 - author: 'Michael Pessios'
   avatar: '/img/review/pessios.jpg'
-  position: 'Store Owner, EDEKA-Pessios'
-  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
+  position: 'Geschäftsführer, EDEKA-Pessios'
+  quotes: 'Es ist sehr spannend mit Freshflow zusammen den nächsten Schritt in unseren Märkten in Sachen Digitalisierung zu machen. Die Künstliche Intelligenz wird uns im LEH weiterbringen. Mit Avik und Carmine haben wir super Partner um diese Herausforderungen zu meistern.'
 
 
 # Client
 - author: 'Michael Pessios'
   avatar: '/img/review/pessios.jpg'
-  position: 'Store Owner, EDEKA-Pessios'
-  quotes: 'It''s very exciting to take the next steps in digitalization in our stores using Freshflow! Their Artificial Intelligence will help grocery retail advance. With Avik and Carmine, we have amazing partners to master these challenges.'
+  position: 'Geschäftsführer, EDEKA-Pessios'
+  quotes: 'Es ist sehr spannend mit Freshflow zusammen den nächsten Schritt in unseren Märkten in Sachen Digitalisierung zu machen. Die Künstliche Intelligenz wird uns im LEH weiterbringen. Mit Avik und Carmine haben wir super Partner um diese Herausforderungen zu meistern.'
 
 
 # # Client
@@ -431,15 +431,15 @@ blog-description: 'The first is a non technical method which requires the use of
 #####################################
 ##########     Contact      ###########
 #####################################
-contact_title: 'Let''s talk.'
+contact_title: 'Beginnen wir das Gespräch.'
 contact_description: ''
 contact_image: 'img/title-icon.png'
 contact_email: 'hello@freshflow.ai'
-contact_email_2nd_line: 'We''d love to hear from you!'
+contact_email_2nd_line: 'Wir freuen uns, von Ihnen zu hören!'
 contact_phone: '+49 176 88123785'
-contact_phone_2nd_line: 'Mon to Fri 9AM to 6PM'
+contact_phone_2nd_line: 'Mo bis Fr, 9:00 bis 18:00'
 contact_phone_2: '+49 172 663 42 00'
-contact_phone_2_2nd_line: 'Mon to Fri 9AM to 6PM'
+contact_phone_2_2nd_line: 'Mo bis Fr, 9:00 bis 18:00'
 contact_calendly: 'https://calendly.com/freshflow'
 contact_calendly_title: 'Schedule a meeting with us'
 contact_calendly_2nd_line: 'at your convenience'
@@ -451,7 +451,7 @@ contact_address_2nd_line: 'Friedrichstr. 123<br>10117 Berlin, Germany'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We''re <a href="https://www.linkedin.com/in/avikmukhija/">Avik Mukhija</a> and <a href="https://www.linkedin.com/in/carminepaolino/">Carmine Paolino</a>, two Machine Learning Scientists who want to reduce food waste while increasing grocery retailers'' profit margins.'
+footer_description: 'Freshflow wurde von <a href="https://www.linkedin.com/in/avikmukhija/">Avik Mukhija</a> und <a href="https://www.linkedin.com/in/carminepaolino/">Carmine Paolino</a> gegründet, beide Forscher im Bereich Künstlicher Intelligenz. Unsere Mission ist es, die globale Lebensmittelverschwendung zu reduzieren und gleichzeitig den Lebensmitteleinzelhandel profitabler zu machen.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
