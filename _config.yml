@@ -100,7 +100,9 @@ hero_product_video_text: 'Sales forecasting and replenishment for fresh products
 hero_product_video_image: 'img/hero/ipad@3x.png'
 hero_product_video_video: 'https://storage.googleapis.com/freshflow-web-assets/Freshflow.mp4'
 hero_product_video_btn_one_link: '#contact'
-hero_product_video_btn_one_text:  'Contact us'
+hero_product_video_btn_one_text:  'Get in touch'
+hero_product_video_btn_two_link: '#contact'
+hero_product_video_btn_two_text:  'Join the waitlist'
 
 # product_background_image
 hero_product_background_image_name: 'The most Creative <br> Theame ever in Business'
@@ -169,7 +171,8 @@ whitelist:
 ####################################
 ######      Global end      ######
 ####################################
-request-demo: '#contact'
+top_right_button_link: 'https://calendly.com/freshflow'
+top_right_button_title: 'Schedule a call'
 
 
 
@@ -250,11 +253,13 @@ shared with any third parties.'
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: 'Want to learn more?'
-cta_btn_link_one: 'https://calendly.com/freshflow'
-cta_btn_text_one: 'Schedule a call'
-cta_btn_link_two: '#contact'
-cta_btn_text_two: 'Ask us anything'
+cta_title: 'Questions?'
+cta_btn_link_one: '#contact'
+cta_btn_text_one: 'Get in touch'
+cta_btn_link_two: '#'
+cta_btn_text_two: 'Join the waitlist'
+cta_btn_link_three: 'https://calendly.com/freshflow'
+cta_btn_text_three: 'Schedule a call'
 
 ####################################
 ######    Social Section      ######

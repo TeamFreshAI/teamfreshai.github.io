@@ -9,7 +9,7 @@
 		@extend .d1-gradient-bg;
 		img{
 			@include transition();
-			opacity:.30;
+			opacity:1;
 			&:hover{
 				opacity:1;
 			}
@@ -28,13 +28,13 @@
 			@include transition();
 			opacity:.50;
 			-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-			filter: grayscale(100%);			
+			filter: grayscale(100%);
 			&:hover{
 				opacity:1;
 				-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-				filter: grayscale(0%);				
+				filter: grayscale(0%);
 			}
-		}		
+		}
 	}
 }
 
@@ -69,13 +69,13 @@
 			@include transition();
 			opacity:.50;
 			-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-			filter: grayscale(100%);			
+			filter: grayscale(100%);
 			&:hover{
 				opacity:1;
 				-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-				filter: grayscale(0%);				
+				filter: grayscale(0%);
 			}
-		}		
+		}
 	}
 }
 
@@ -85,13 +85,13 @@
 			@include transition();
 			opacity:.50;
 			-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-			filter: grayscale(100%);			
+			filter: grayscale(100%);
 			&:hover{
 				opacity:1;
 				-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-				filter: grayscale(0%);				
+				filter: grayscale(0%);
 			}
-		}		
+		}
 	}
 }
 
@@ -114,12 +114,12 @@
 			@include transition();
 			opacity:.50;
 			-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-			filter: grayscale(100%);			
+			filter: grayscale(100%);
 			&:hover{
 				opacity:1;
 				-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-				filter: grayscale(0%);				
+				filter: grayscale(0%);
 			}
-		}		
+		}
 	}
 }
