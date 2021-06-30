@@ -13,6 +13,24 @@
                     <a href="{{ site.hero_product_video_btn_one_link }}" class="genric-btn2">
                         {{ site.hero_product_video_btn_one_text }}
                     </a>
+                    <!-- <p>Join our waitlist</p> -->
+                    <div class="waitlist-hero newsletter-form" id="mc_embed_signup">
+                        <form class="navbar-form"
+                        action="https://tech.us7.list-manage.com/subscribe/post?u={{ site.mailchimp.user-id }}&amp;id={{ site.mailchimp.list-id }}"
+                            method="post" novalidate >
+                            <div class="d-flex form-wrap">
+                                <input class="form-control" name="EMAIL" autocomplete="email" placeholder="Your email address"
+                                    onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
+                                    required="" type="email">
+                                <button class="submit-btn" type="submit">
+                                    <span class="lnr lnr-arrow-right"></span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- <a href="{{ site.hero_product_video_btn_two_link }}" class="genric-btn">
+                        {{ site.hero_product_video_btn_two_text }}
+                    </a> -->
                 </div>
                 <style>
                 #video_box {
