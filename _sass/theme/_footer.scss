@@ -23,6 +23,10 @@
         }
         p {
             color: $white;
+            a {
+                text-decoration: underline;
+                color: $white;
+            }
         }
         .menu-list {
             li {
