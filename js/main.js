@@ -658,7 +658,7 @@ $(document).ready(function () {
             var mapElement = document.getElementById('map');
             var map = new google.maps.Map(mapElement, mapOptions);
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(52.536800, 13.394940),
+                position: new google.maps.LatLng(52.526200, 13.386980),
                 map: map,
                 title: 'Freshflow'
             });
