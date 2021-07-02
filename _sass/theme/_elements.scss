@@ -112,7 +112,7 @@
     display: inline-block;
     z-index: 1;
     max-width: 100%;
-    padding: 0px 22px;
+    padding: 0px 16px;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -166,7 +166,8 @@
         color: $white;
         padding: 0px 20px;
         transition: .3s;
-        // text-transform: uppercase;
+        text-transform: uppercase;
+        font-weight: 600;
         // background: $primary-color2;
         .lnr {
             font-weight: 700;
