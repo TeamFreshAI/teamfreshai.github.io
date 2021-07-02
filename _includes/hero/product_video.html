@@ -13,8 +13,7 @@
                     <a href="{{ site.hero_product_video_btn_one_link | relative_url }}" class="genric-btn2">
                         {{ site.hero_product_video_btn_one_text }}
                     </a>
-                    <!-- <p>Join our waitlist</p> -->
-                    <div class="waitlist-hero newsletter-form" id="mc_embed_signup">
+                    <div class="waitlist-hero" id="mc_embed_signup">
                         <form class="navbar-form"
                         action="https://tech.us7.list-manage.com/subscribe/post?u={{ site.mailchimp.user-id }}&amp;id={{ site.mailchimp.list-id }}"
                             method="post" novalidate >
@@ -23,26 +22,12 @@
                                     onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
                                     required="" type="email">
                                 <button class="submit-btn" type="submit">
-                                    <span class="lnr lnr-arrow-right"></span>
+                                    → Waitlist
                                 </button>
                             </div>
                         </form>
                     </div>
-                    <!-- <a href="{{ site.hero_product_video_btn_two_link }}" class="genric-btn">
-                        {{ site.hero_product_video_btn_two_text }}
-                    </a> -->
                 </div>
-                <style>
-                #video_box {
-                    position: relative;
-                }
-                #video_overlays {
-                    position: absolute;
-                    z-index: 990;
-                    bottom: -4%;
-                    text-align: center;
-                }
-                </style>
                 <div class="col-lg-6 col-md-6 text-center">
                     <div id="video_box">
                         <div id="video_overlays"><img class="img-fluid" src="{{ site.hero_product_video_image }}" alt=""></div>

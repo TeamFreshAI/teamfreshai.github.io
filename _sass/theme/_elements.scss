@@ -96,13 +96,23 @@
     background-image: -ms-linear-gradient( 0deg, rgb(20, 29, 162) 0%, rgb(139, 62, 251) 100%);
 }
 
+#video_box {
+    position: relative;
+}
+#video_overlays {
+    position: absolute;
+    z-index: 990;
+    bottom: -4%;
+    text-align: center;
+}
+
 .waitlist-hero {
     color: $title-color;
     position: relative;
     display: inline-block;
     z-index: 1;
     max-width: 100%;
-    padding: 0px 34px;
+    padding: 0px 22px;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -122,43 +132,49 @@
         border: none;
         width: 100%;
         overflow: hidden;
-        background: $primary-color;
-        color: #ffffff;
+        background: $offwhite;
+        color: $black;
         min-height: 40px;
         &:focus {
             box-shadow: none;
-            color: #ffffff !important;
+            border: 1px solid $primary-color;
+            background: $white;
+            color: $black !important;
         }
         &::placeholder {
             /* Chrome, Firefox, Opera, Safari 10.1+ */
-            color: #ffffff;
+            color: $black;
             font-size: 13px;
             opacity: 1;
             /* Firefox */
         }
         &:-ms-input-placeholder {
             /* Internet Explorer 10-11 */
-            color: #ffffff;
+            color: $black;
             font-size: 13px;
         }
         &::-ms-input-placeholder {
             /* Microsoft Edge */
-            color: #ffffff;
+            color: $black;
             font-size: 13px;
         }
     }
     .submit-btn {
-        // @extend .d1-gradient-bg;
+        @extend .d1-gradient-bg;
         box-shadow: none;
         border: none;
-        color: $title-color;
-        padding: 0px 10px;
-        background: $primary-color2;
+        color: $white;
+        padding: 0px 20px;
+        transition: .3s;
+        // text-transform: uppercase;
+        // background: $primary-color2;
         .lnr {
             font-weight: 700;
         }
         &:hover {
             cursor: pointer;
+            background: $offwhite;
+            color: $title-color;
         }
     }
     .info {
